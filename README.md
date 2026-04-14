@@ -13,13 +13,13 @@ This repository showcases the personal smart contract projects I've built as par
 
 ## <img src="./assets/logos/starknet.svg" width="16" style="margin-right:3px;"/> Starknet Projects
 
-| Category | Project | Repository | Last update | Version | Status |
-|:---------|:--------|:------------|:---------|:---------|:---------|
-| DeFi | Lending | [starknet-lending](https://github.com/hieutrinh02/starknet-lending) | 2025-12 | v0.1.0 | ✅ Done |
+| Category | Project | Repository | Last update | Version |
+|:---------|:--------|:------------|:---------|:---------|
+| DeFi | Lending | [starknet-lending](https://github.com/hieutrinh02/starknet-lending) | 2025-12 | v0.1.0 |
 
 ## <img src="./assets/logos/solana.svg" width="18" style="margin-right:3px;"/> Solana Projects
 
-| Category | Project | Repository | Stack | Last update | Version | Status |
-|:---------|:--------|:------------|:---------|:---------|:---------|:---------|
-| NFT | NFT Marketplace | [solana-nft-marketplace-program](https://github.com/hieutrinh02/solana-nft-marketplace-program)<br/>[solana-nft-marketplace-indexer](https://github.com/hieutrinh02/solana-nft-marketplace-indexer)<br/>[solana-nft-marketplace-fe](https://github.com/hieutrinh02/solana-nft-marketplace-fe) | Anchor | 2026-04 | v0.2.0 | ✅ Done |
-| DeFi | CPMM | [solana-cpmm-program](https://github.com/hieutrinh02/solana-cpmm-program)<br/>[solana-cpmm-indexer](https://github.com/hieutrinh02/solana-cpmm-indexer)<br/>[solana-cpmm-fe](https://github.com/hieutrinh02/solana-cpmm-fe) | Native | 2026-03 | v0.1.0 | ✅ Done |
+| Category | Project | Repository | Stack | Last update | Version |
+|:---------|:--------|:------------|:---------|:---------|:---------|
+| NFT | NFT Marketplace | [solana-nft-marketplace-program](https://github.com/hieutrinh02/solana-nft-marketplace-program)<br/>[solana-nft-marketplace-indexer](https://github.com/hieutrinh02/solana-nft-marketplace-indexer)<br/>[solana-nft-marketplace-fe](https://github.com/hieutrinh02/solana-nft-marketplace-fe) | Anchor | 2026-04 | v0.2.0 |
+| DeFi | CPMM | [solana-cpmm-program](https://github.com/hieutrinh02/solana-cpmm-program)<br/>[solana-cpmm-indexer](https://github.com/hieutrinh02/solana-cpmm-indexer)<br/>[solana-cpmm-fe](https://github.com/hieutrinh02/solana-cpmm-fe) | Native | 2026-03 | v0.1.0 |
