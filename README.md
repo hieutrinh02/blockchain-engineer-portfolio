@@ -5,7 +5,7 @@ This repository showcases the personal smart contract projects I've built as par
 
 ---
 
-## <img src="./assets/logos/ethereum.svg" width="10" style="margin-right:3px;"/> EVM Projects
+## EVM Projects
 
 <table>
   <thead>
@@ -33,7 +33,7 @@ This repository showcases the personal smart contract projects I've built as par
   </tbody>
 </table>
 
-## <img src="./assets/logos/starknet.svg" width="16" style="margin-right:3px;"/> Starknet Projects
+## Starknet Projects
 
 <table>
   <thead>
@@ -67,7 +67,7 @@ This repository showcases the personal smart contract projects I've built as par
   </tbody>
 </table>
 
-## <img src="./assets/logos/solana.svg" width="18" style="margin-right:3px;"/> Solana Projects
+## Solana Projects
 
 <table>
   <thead>
