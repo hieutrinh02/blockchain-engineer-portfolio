@@ -1,11 +1,13 @@
-# Smart Contract Dev Portfolio
-Smart contract developer portfolio by [@hieutrinh02](https://github.com/hieutrinh02).
+# Blockchain Engineer Portfolio
+Blockchain engineer portfolio by [@hieutrinh02](https://github.com/hieutrinh02).
 
-This repository showcases the personal smart contract projects I've built as part of my development as a smart contract developer.
+This repository showcases the personal projects I've built as part of my development as a blockchain engineer.
 
 ---
 
-## EVM Projects
+## Permissionless Blockchain Projects
+
+### EVM
 
 <table>
   <thead>
@@ -33,7 +35,7 @@ This repository showcases the personal smart contract projects I've built as par
   </tbody>
 </table>
 
-## Starknet Projects
+### Starknet
 
 <table>
   <thead>
@@ -67,7 +69,7 @@ This repository showcases the personal smart contract projects I've built as par
   </tbody>
 </table>
 
-## Solana Projects
+### Solana
 
 <table>
   <thead>
@@ -117,6 +119,36 @@ This repository showcases the personal smart contract projects I've built as par
     </tr>
     <tr>
       <td><a href="https://github.com/hieutrinh02/solana-cpmm-fe">frontend</a></td>
+    </tr>
+  </tbody>
+</table>
+
+## Permissioned Blockchain Projects
+
+### Hyperledger Fabric
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Project</th>
+      <th>Repository</th>
+      <th>Last update</th>
+      <th>Version</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Enterprise Blockchain</td>
+      <td rowspan="2">LC System</td>
+      <td colspan="4">End-to-end Letter of Credit system built on Hyperledger Fabric.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hieutrinh02/hyperledger-fabric-lc-system">repository</a></td>
+      <td>2026-05</td>
+      <td>v0.1.0</td>
+      <td>✅ Done</td>
     </tr>
   </tbody>
 </table>
