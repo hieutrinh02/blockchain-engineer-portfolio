@@ -9,25 +9,27 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### EVM
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Project</th>
-      <th>Repository</th>
-      <th>Last update</th>
-      <th>Version</th>
-      <th>Status</th>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">DeFi</td>
-      <td rowspan="2">CLMM</td>
-      <td colspan="4">Concentrated liquidity AMM.</td>
+      <td rowspan="2">-</td>
+      <td rowspan="2">-</td>
+      <td colspan="5">-</td>
     </tr>
     <tr>
-      <td>evm-clmm</td>
+      <td>-</td>
+      <td>-</td>
       <td>-</td>
       <td>-</td>
       <td>Planned</td>
@@ -37,25 +39,27 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Starknet
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Project</th>
-      <th>Repository</th>
-      <th>Last update</th>
-      <th>Version</th>
-      <th>Status</th>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="4">DeFi</td>
       <td rowspan="4">Lending</td>
-      <td colspan="4">Lending protocol with core lending mechanics, interest accrual and liquidation logic.</td>
+      <td colspan="5">Lending protocol with core lending mechanics, interest accrual and liquidation logic.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hieutrinh02/starknet-lending-sc">contract</a></td>
+      <td rowspan="3">Cairo</td>
       <td rowspan="3">2026-04</td>
       <td rowspan="3">v0.1.0</td>
       <td rowspan="3">✅ Done</td>
@@ -71,16 +75,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Solana
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Project</th>
-      <th>Repository</th>
-      <th>Stack</th>
-      <th>Last update</th>
-      <th>Version</th>
-      <th>Status</th>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -123,29 +127,94 @@ This repository showcases the personal projects I've built as part of my develop
   </tbody>
 </table>
 
+### Sui
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">DeFi</td>
+      <td rowspan="3">CLMM</td>
+      <td colspan="5">Concentrated liquidity AMM written in Sui Move.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hieutrinh02/sui-clmm-package">package</a></td>
+      <td rowspan="2">Sui Move</td>
+      <td rowspan="2">2026-06</td>
+      <td rowspan="2">v0.1.0</td>
+      <td rowspan="2">✅ Done</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hieutrinh02/sui-clmm-be">backend</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Aptos
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">DeFi</td>
+      <td rowspan="2">CLOB</td>
+      <td colspan="5">Central limit order book written in Aptos Move.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hieutrinh02/aptos-clob-package">package</a></td>
+      <td>Aptos Move</td>
+      <td>2026-06</td>
+      <td>v0.1.0</td>
+      <td>✅ Done</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Permissioned Blockchain Projects
 
 ### Hyperledger Fabric
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Project</th>
-      <th>Repository</th>
-      <th>Last update</th>
-      <th>Version</th>
-      <th>Status</th>
+      <th width="12%">Category</th>
+      <th width="18%">Project</th>
+      <th width="20%">Repository</th>
+      <th width="14%">Stack</th>
+      <th width="14%">Last update</th>
+      <th width="10%">Version</th>
+      <th width="12%">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="2">Enterprise Blockchain</td>
       <td rowspan="2">LC System</td>
-      <td colspan="4">End-to-end Letter of Credit system built on Hyperledger Fabric.</td>
+      <td colspan="5">End-to-end Letter of Credit system built on Hyperledger Fabric.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hieutrinh02/hyperledger-fabric-lc-system">repository</a></td>
+      <td>Fabric</td>
       <td>2026-05</td>
       <td>v0.1.0</td>
       <td>✅ Done</td>
