@@ -9,16 +9,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### EVM
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -39,16 +39,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Starknet
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -75,16 +75,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Solana
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -129,16 +129,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Sui
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -162,16 +162,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Aptos
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -194,16 +194,16 @@ This repository showcases the personal projects I've built as part of my develop
 
 ### Hyperledger Fabric
 
-<table width="100%">
+<table width="920">
   <thead>
     <tr>
-      <th width="12%">Category</th>
-      <th width="18%">Project</th>
-      <th width="20%">Repository</th>
-      <th width="14%">Stack</th>
-      <th width="14%">Last update</th>
-      <th width="10%">Version</th>
-      <th width="12%">Status</th>
+      <th width="105">Category</th>
+      <th width="160">Project</th>
+      <th width="185">Repository</th>
+      <th width="130">Stack</th>
+      <th width="125">Last update</th>
+      <th width="95">Version</th>
+      <th width="120">Status</th>
     </tr>
   </thead>
   <tbody>
