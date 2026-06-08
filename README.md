@@ -12,12 +12,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
@@ -42,12 +42,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
@@ -78,12 +78,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
@@ -132,12 +132,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
@@ -165,12 +165,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
@@ -197,12 +197,12 @@ This repository showcases the personal projects I've built as part of my develop
 <table width="920">
   <thead>
     <tr>
-      <th width="105">Category</th>
+      <th width="100">Category</th>
       <th width="160">Project</th>
-      <th width="170">Repository</th>
-      <th width="145">Stack</th>
-      <th width="125">Last update</th>
-      <th width="95">Version</th>
+      <th width="155">Repository</th>
+      <th width="175">Stack</th>
+      <th width="120">Last update</th>
+      <th width="90">Version</th>
       <th width="120">Status</th>
     </tr>
   </thead>
