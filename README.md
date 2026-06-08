@@ -14,8 +14,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -44,8 +44,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -59,7 +59,7 @@ This repository showcases the personal projects I've built as part of my develop
     </tr>
     <tr>
       <td><a href="https://github.com/hieutrinh02/starknet-lending-sc">contract</a></td>
-      <td rowspan="3">Cairo</td>
+      <td rowspan="3">Cairo, Starknet Foundry</td>
       <td rowspan="3">2026-04</td>
       <td rowspan="3">v0.1.0</td>
       <td rowspan="3">✅ Done</td>
@@ -80,8 +80,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -134,8 +134,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -167,8 +167,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -199,8 +199,8 @@ This repository showcases the personal projects I've built as part of my develop
     <tr>
       <th width="105">Category</th>
       <th width="160">Project</th>
-      <th width="185">Repository</th>
-      <th width="130">Stack</th>
+      <th width="170">Repository</th>
+      <th width="145">Stack</th>
       <th width="125">Last update</th>
       <th width="95">Version</th>
       <th width="120">Status</th>
@@ -214,7 +214,7 @@ This repository showcases the personal projects I've built as part of my develop
     </tr>
     <tr>
       <td><a href="https://github.com/hieutrinh02/hyperledger-fabric-lc-system">repository</a></td>
-      <td>Fabric</td>
+      <td>Fabric, Go</td>
       <td>2026-05</td>
       <td>v0.1.0</td>
       <td>✅ Done</td>
