@@ -32,7 +32,7 @@ This repository showcases the personal projects I've built as part of my develop
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>Planned</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
