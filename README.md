@@ -7,36 +7,6 @@ This repository showcases the personal projects I've built as part of my develop
 
 ## Permissionless Blockchain Projects
 
-### EVM
-
-<table width="920">
-  <thead>
-    <tr>
-      <th width="100">Category</th>
-      <th width="160">Project</th>
-      <th width="155">Repository</th>
-      <th width="175">Stack</th>
-      <th width="120">Last update</th>
-      <th width="90">Version</th>
-      <th width="120">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">-</td>
-      <td rowspan="2">-</td>
-      <td colspan="5">-</td>
-    </tr>
-    <tr>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
 ### Starknet
 
 <table width="920">
